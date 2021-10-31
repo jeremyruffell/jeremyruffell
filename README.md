@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ---
+### 📊 Stats
+![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremyruffell&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
+---
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
